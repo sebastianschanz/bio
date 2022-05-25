@@ -3,6 +3,9 @@
 # __________________ written by Sebastian Schanz __________________#
 #
 # pandas library as well as cadquery need to be installed initially
+# for further information on cadquery python CAD library see:
+# https://github.com/CadQuery/CQ-editor#installation
+# https://cadquery.readthedocs.io/en/latest/
 
 
 

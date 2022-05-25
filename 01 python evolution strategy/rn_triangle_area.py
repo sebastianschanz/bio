@@ -1,12 +1,14 @@
 # ------- written by Sebastian Schanz --------
 # this code generates random triangles in cadquery-editor
 # for further information on cadquery python CAD library see:
+# https://github.com/CadQuery/CQ-editor#installation
 # https://cadquery.readthedocs.io/en/latest/
 
 
 
 import random as rn
 import cadquery as cq
+
 
 
 # random_triangle_generation
