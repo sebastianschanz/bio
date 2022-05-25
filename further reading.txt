@@ -1,0 +1,11 @@
+David Rutten on evolution strategies with rhino3d grasshopper (CAD Software):
+https://ieatbugsforbreakfast.wordpress.com/2011/03/04/epatps01/
+
+This is the specific type of pareto optimization that I used for optimizing fin ray grippers.
+Mulit-objective optimization (Pareto-Optimierung) with HypE algorithm:
+https://pubmed.ncbi.nlm.nih.gov/20649424/
+
+Super video from Emergent Garden on evolutionary algorithms.
+The life engine is an evolution simulator, which he creates in his video.
+https://www.youtube.com/watch?v=4XEklaH9k6k
+https://thelifeengine.net/
